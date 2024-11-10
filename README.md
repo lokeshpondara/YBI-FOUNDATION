@@ -1,4 +1,5 @@
-# YBI-FOUNDATIONA handwritten digit classification project typically involves using machine learning to recognize and classify digits from images. Here’s an overview of how such a project generally progresses:
+# YBI-FOUNDATION 
+A handwritten digit classification project typically involves using machine learning to recognize and classify digits from images. Here’s an overview of how such a project generally progresses:
 
 ### 1. **Project Objective**
    The goal is to develop a model that accurately identifies digits (0-9) from images of handwritten digits, typically from datasets like the MNIST dataset, which contains thousands of 28x28 pixel grayscale images of handwritten digits.
